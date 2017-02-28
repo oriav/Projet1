@@ -1,0 +1,22 @@
+#entete {
+    border: 1px solid black;
+}
+
+#colonne {
+    width: inherit;
+}
+
+#titreppal {
+    border: 1px solid black;
+    height: 100px;
+}
+
+#menunu {
+    border: 1px solid black;
+    height: 50px;
+}
+
+.cardslider__cards {
+    width: 50%;
+    height: 50%;
+}
